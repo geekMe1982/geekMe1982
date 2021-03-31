@@ -9,4 +9,4 @@ I learned a lot from the open-source community and I love how collaboration and 
 - 👯 I’m looking to collaborate on any iOS project
 - 🤔 I’m looking for help with iOS development
 
-![GitHub Logo](/images/lucky.png)
+![GitHub Logo](geekMe1982/images/lucky.png)
