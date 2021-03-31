@@ -9,4 +9,4 @@ I learned a lot from the open-source community and I love how collaboration and 
 - 👯 I’m looking to collaborate on any iOS project
 - 🤔 I’m looking for help with iOS development
 
-![](../images/app-it.white.png "Appit logo")
+![](/iOS_development/images/app-it.white.png "Appit logo")
