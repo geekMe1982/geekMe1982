@@ -9,5 +9,5 @@ I learned a lot from the open-source community and I love how collaboration and 
 - 👯 I’m looking to collaborate on any iOS project
 - 🤔 I’m looking for help with iOS development
 
-![GitHub Logo](/black.jpg)
+![GitHub Logo](../black.jpg)
 
