@@ -9,5 +9,5 @@ I learned a lot from the open-source community and I love how collaboration and 
 - 👯 I’m looking to collaborate on any iOS project
 - 🤔 I’m looking for help with iOS development
 
-![lucky](./geekMe1982/images/screenshot.png)
+![lucky](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&psig=AOvVaw0S7dnyjdMYQ37Q7-G9LV4D&ust=1617291087670000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDF8_ns2u8CFQAAAAAdAAAAABAJ)
 
