@@ -2,7 +2,7 @@
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
+<img src = "https://github-readme-stats.vercel.app/api?username=geekMe1982&&show_icons=true&theme=radical" alt="readme stats">
 
 - 🔭 I’m currently working on improving my iOS developer skills
 - 🌱 I’m currently learning Swift / Python 
