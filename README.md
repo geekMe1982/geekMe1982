@@ -7,5 +7,3 @@
 
 - 🔭 I’m currently working on improving my iOS development skills
 - 👯 I’m looking to collaborate on any iOS project
-
-![](me.jpg "great view")
