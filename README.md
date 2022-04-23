@@ -1,4 +1,9 @@
-##### Hi there, I'm Adam, a passionate self-taught iOS developer and a freelance language teacher from Egypt :egypt:. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+##### Hi there 👋
+
+
+
+I'm a passionate self-taught junior iOS developer from Egypt :egypt:.
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 
