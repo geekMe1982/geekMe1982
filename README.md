@@ -1,7 +1,6 @@
-##### Hi there 👋
+##### Hi there 💚
 
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=swift)](https://github.com/harish-sethuraman/readme-components)
 
 
 
