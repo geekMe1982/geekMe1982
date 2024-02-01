@@ -1,6 +1,6 @@
 ##### Hi there 💚
 
-Welcome to my GitHub profile! My name is Adam, and I'm a computer science enthusiast with a passion for diving, philosophy, and the arts.
+Welcome to my GitHub profile! My name is Adam, and I'm a computer science enthusiast with a passion for diving, philosophy, and arts.
 
 
 As a programmer, I specialize in Swift, Lua, and Python, and I enjoy using these languages to build innovative solutions to complex problems. Whether I'm designing a new app, optimizing an algorithm, or exploring the latest machine learning techniques, I always strive to create code that is elegant, efficient, and effective.
